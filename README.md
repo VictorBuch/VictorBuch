@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on a CNN that can automatically cull photos
+- 🌱 I’m currently learning HTML, CSS and Tensorflow
+- 📫 How to reach me: vbuch18@student.aau.dk
+
 <!--
 **VictorBuch/VictorBuch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
