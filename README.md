@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello there 👋
 
 - 🔭 I’m currently working on an app for professional photographers.
 - 🌱 I’m currently learning HTML, CSS and React
