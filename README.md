@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on a CNN that can automatically cull photos
-- 🌱 I’m currently learning HTML, CSS and Tensorflow
+- 🔭 I’m currently working on an app for professional photographers.
+- 🌱 I’m currently learning HTML, CSS and React
 - 📫 How to reach me: vbuch18@student.aau.dk
 
 <!--
