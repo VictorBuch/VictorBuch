@@ -1,7 +1,7 @@
 ### Hello there 👋
 
 - 🔭 I’m currently working on an app for professional photographers.
-- 🌱 I’m currently learning HTML, CSS and React
+- 🌱 I’m currently learning HTML, CSS, JS and React
 - 📫 How to reach me: vbuch18@student.aau.dk
 
 <!--
