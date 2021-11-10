@@ -1,7 +1,7 @@
 ### Hello there 👋
 
-- 🔭 I’m currently working on an app for professional photographers.
-- 🌱 I’m currently learning HTML, CSS, JS and React
+- 🔭 I’m currently working as a junior frontend engineer at StudentPulse.io
+- 🌱 I’m currently learning Vue.js
 - 📫 How to reach me: vbuch18@student.aau.dk
 
 <!--
