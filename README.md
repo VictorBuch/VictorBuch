@@ -2,13 +2,12 @@
 
 - 🔭 I’m currently working as a junior frontend engineer at StudentPulse.io
 - 🌱 I’m currently learning Vue.js
-- 📫 How to reach me: vbuch18@student.aau.dk
+
 
 <!--
 **VictorBuch/VictorBuch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
