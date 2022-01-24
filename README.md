@@ -1,7 +1,7 @@
 ### Hello there 👋
 
 - 🔭 I’m currently working as a frontend engineer at StudentPulse.io
-- 🌱 I’m currently loving Vue.js
+- 📚 My stack is currently MEVN and using Tailwind css 3 for styling
 
 
 <!--
