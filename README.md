@@ -1,7 +1,7 @@
 ### Hello there 👋
 
-- 🔭 I’m currently working as a junior frontend engineer at StudentPulse.io
-- 🌱 I’m currently learning Vue.js
+- 🔭 I’m currently working as a frontend engineer at StudentPulse.io
+- 🌱 I’m currently loving Vue.js
 
 
 <!--
