@@ -1,8 +1,7 @@
 ### Hello there 👋
 
 - 🔭 I’m currently working as a frontend engineer at StudentPulse.io
-- 📚 My stack is currently MEVN and using Tailwind css 3 for styling
-
+- 🌱 I’m currently learning Vue and React as well as Tailwind css
 
 <!--
 **VictorBuch/VictorBuch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
