@@ -1,7 +1,7 @@
 ### Hello there 👋
 
-- 🔭 I’m currently working as a frontend engineer at StudentPulse.io
-- 🌱 I’m currently learning Vue and React as well as Laravel. 
+- 🔭 I’m currently working as lead frontend engineer at StudentPulse.io
+- 🌱 I’m currently learning Svelte, Vim as well as Laravel. 
 
 <!--
 **VictorBuch/VictorBuch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
