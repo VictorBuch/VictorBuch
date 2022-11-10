@@ -1,6 +1,5 @@
 ### Hello there 👋
 
-- 🔭 I’m currently working as lead frontend engineer at StudentPulse.io
 - 🌱 I’m currently learning Svelte, Vim as well as Laravel. 
 
 <!--
