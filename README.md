@@ -1,6 +1,6 @@
 ### Hello there 👋
 
-- 🌱 I’m currently learning Svelte, Vim as well as Laravel. 
+I am a Fontend developer who is trying to make cool sideprojects while learning a bunch.
 
 <!--
 **VictorBuch/VictorBuch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
