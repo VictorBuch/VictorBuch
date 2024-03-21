@@ -7,7 +7,7 @@ Passionate Web developer
 * 🌍  I'm based in Denmark
 * 🖥️  See my portfolio at [victorbuch.com](http://victorbuch.com)
 * 🚀  I'm currently working on completing the [100 day CSS challenge](https://100dayscss.com/)
-* 🧠  I'm learning SvelteKit and Nuxt 3 and SQL
+* 🧠  I'm learning NixOs, Nuxt 3 and GO
 
 ### Skills
 
