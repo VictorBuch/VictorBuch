@@ -4,10 +4,10 @@ Hi, I'm Victor Buch
 Web developer
 -------------
 
-* 🌍  I'm based in Denmark
+* 🌍  I'm based in the Czech Republic
 * 🖥️  See my portfolio at [victorbuch.com](http://victorbuch.com)
 * 🚀  I'm currently tinkering with nixos
-* 🧠  I'm learning NixOs, Nuxt 3, Angular and GO
+* 🧠  I'm learning NixOs, Svelte, Android (Kotlin & Jetpack Compose) and GO
 
 ### Skills
 
